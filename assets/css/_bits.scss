@@ -1,0 +1,58 @@
+$colour0: #ffffff;
+$colour1: #eeeeee;
+$colour2: #333333;
+$colour3: #36393e;
+$colour4: #bdab93;
+$colour5: #f0eee1;
+
+$font-size-base: 0.8em;
+
+$padding:12px;
+
+/* clearfix - add group class */
+.group:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+@mixin font-stack-text {	
+	font-family: 'Nexa',  'Helvetica Neue', Helvetica,  Arial, sans-serif;
+	font-weight:normal; 
+	font-style:normal;
+	font-size:16px;
+}
+
+@mixin font-stack-headers {		
+	font-family: 'NexaThin', 'Helvetica Neue', Helvetica, Arial, sans-serif; 
+/*	font-size-adjust:0.426; */
+	font-weight:500; 
+	font-style:normal; 
+	letter-spacing: -0.07em;
+	word-spacing: 0.2em;
+	color:$colour1;
+	text-shadow: 0px 1px 1px $colour1;
+}
+
+@mixin font-stack-subheaders {		
+	font-family: 'Nexa-Light', 'Helvetica Neue', Helvetica, Arial, sans-serif; 
+/*		font-size-adjust:0.426; */
+	font-weight:500; 
+	font-style:normal; 
+	letter-spacing: -0.02em;
+	color: $colour1;
+	text-shadow: 0px 1px 1px $colour1;
+}
+
+@mixin breakpoint($point) {
+	@if $point == desktop {
+ 		@media (max-width: 1020px) { @content; }
+	}
+	@if $point == tablet {
+		@media (max-width: 996px) { @content; }
+	}
+	@else if $point == mobile {
+		@media (max-width: 502px)  { @content; }
+	}
+}
