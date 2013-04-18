@@ -5,6 +5,7 @@ $colour3: #36393e;
 $colour4: #bdab93;
 $colour5: #f0eee1;
 
+
 $font-size-base: 0.8em;
 
 $padding:12px;
@@ -18,16 +19,16 @@ $padding:12px;
 
 
 @mixin font-stack-text {	
-	font-family: 'Nexa',  'Helvetica Neue', Helvetica,  Arial, sans-serif;
+	font-family: 'Helvetica Neue', Helvetica,  Arial, sans-serif;
 	font-weight:normal; 
 	font-style:normal;
 	font-size:16px;
 }
 
 @mixin font-stack-headers {		
-	font-family: 'NexaThin', 'Helvetica Neue', Helvetica, Arial, sans-serif; 
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; 
 /*	font-size-adjust:0.426; */
-	font-weight:500; 
+	font-weight:200; 
 	font-style:normal; 
 	letter-spacing: -0.07em;
 	word-spacing: 0.2em;
@@ -36,9 +37,9 @@ $padding:12px;
 }
 
 @mixin font-stack-subheaders {		
-	font-family: 'Nexa-Light', 'Helvetica Neue', Helvetica, Arial, sans-serif; 
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; 
 /*		font-size-adjust:0.426; */
-	font-weight:500; 
+	font-weight:700; 
 	font-style:normal; 
 	letter-spacing: -0.02em;
 	color: $colour1;

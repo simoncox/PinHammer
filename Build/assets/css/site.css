@@ -1,11 +1,12 @@
 /*
-   ___                            _     ___      
-  / __\_____  __   __ _ _ __   __| |   / __\___  
- / /  / _ \ \/ /  / _` | '_ \ / _` |  / /  / _ \ 
-/ /__| (_) >  <  | (_| | | | | (_| | / /__| (_) |
-\____/\___/_/\_\  \__,_|_| |_|\__,_| \____/\___/ 
+   ______                           __                    __  
+  / ____/___  _  ______ _____  ____/ / _________   __  __/ /__
+ / /   / __ \| |/_/ __ `/ __ \/ __  / / ___/ __ \ / / / / //_/
+/ /___/ /_/ />  </ /_/ / / / / /_/ /_/ /__/ /_/ // /_/ / ,<   
+\____/\____/_/|_|\__,_/_/ /_/\__,_/(_)___/\____(_)__,_/_/|_|  
 
 coxand.co.uk created by coxand.co.uk */
+/*  - ascii art from http://www.network-science.de/ascii/ Font = Slant     */
 /* normalize.css v2.0.1 | MIT License | git.io/normalize */
 /* ==========================================================================
    HTML5 display definitions
@@ -320,188 +321,6 @@ table {
   border-collapse: collapse;
   border-spacing: 0; }
 
-/* @license
- * MyFonts Webfont Build ID 2389930, 2012-10-22T18:00:33-0400
- * 
- * The fonts listed in this notice are subject to the End User License
- * Agreement(s) entered into by the website owner. All other parties are 
- * explicitly restricted from using the Licensed Webfonts(s).
- * 
- * You may obtain a valid license at the URLs below.
- * 
- * Webfont: Nexa Heavy by Fontfabric
- * URL: http://www.myfonts.com/fonts/font-fabric/nexa/heavy/
- * Copyright: Copyright (c) 2012 by Fontfabric LLC. All rights reserved.
- * Licensed pageviews: 100,000
- * 
- * Webfont: Nexa Book Italic by Fontfabric
- * URL: http://www.myfonts.com/fonts/font-fabric/nexa/book-italic/
- * Copyright: Copyright (c) 2012 by Fontfabric LLC. All rights reserved.
- * Licensed pageviews: unspecified
- * 
- * Webfont: Nexa Thin by Fontfabric
- * URL: http://www.myfonts.com/fonts/font-fabric/nexa/thin/
- * Copyright: Copyright (c) 2012 by Fontfabric LLC. All rights reserved.
- * Licensed pageviews: unspecified
- * 
- * Webfont: Nexa Book by Fontfabric
- * URL: http://www.myfonts.com/fonts/font-fabric/nexa/book/
- * Copyright: Copyright (c) 2012 by Fontfabric LLC. All rights reserved.
- * Licensed pageviews: unspecified
- * 
- * Webfont: Nexa Light Italic by Fontfabric
- * URL: http://www.myfonts.com/fonts/font-fabric/nexa/light-italic/
- * Copyright: Copyright (c) 2012 by Svetoslav Simov. All rights reserved.
- * Licensed pageviews: unspecified
- * 
- * Webfont: Nexa Bold Italic by Fontfabric
- * URL: http://www.myfonts.com/fonts/font-fabric/nexa/bold-italic/
- * Copyright: Copyright (c) 2012 by Fontfabric LLC. All rights reserved.
- * Licensed pageviews: unspecified
- * 
- * Webfont: Nexa Heavy Italic by Fontfabric
- * URL: http://www.myfonts.com/fonts/font-fabric/nexa/heavy-italic/
- * Copyright: Copyright (c) 2012 by Fontfabric LLC. All rights reserved.
- * Licensed pageviews: unspecified
- * 
- * Webfont: Nexa Regular by Fontfabric
- * URL: http://www.myfonts.com/fonts/font-fabric/nexa/regular/
- * Copyright: Copyright (c) 2012 by Fontfabric LLC. All rights reserved.
- * Licensed pageviews: unspecified
- * 
- * Webfont: Nexa XBold Italic by Fontfabric
- * URL: http://www.myfonts.com/fonts/font-fabric/nexa/xbold-italic/
- * Copyright: Copyright (c) 2012 by Svetoslav Simov. All rights reserved.
- * Licensed pageviews: unspecified
- * 
- * Webfont: Nexa Black Italic by Fontfabric
- * URL: http://www.myfonts.com/fonts/font-fabric/nexa/black-italic/
- * Copyright: Copyright (c) 2012 by Fontfabric LLC. All rights reserved.
- * Licensed pageviews: unspecified
- * 
- * Webfont: Nexa Thin Italic by Fontfabric
- * URL: http://www.myfonts.com/fonts/font-fabric/nexa/thin-italic/
- * Copyright: Copyright (c) 2012 by Fontfabric LLC. All rights reserved.
- * Licensed pageviews: unspecified
- * 
- * Webfont: Nexa Bold by Fontfabric
- * URL: http://www.myfonts.com/fonts/font-fabric/nexa/bold/
- * Copyright: Copyright (c) 2012 by Fontfabric LLC. All rights reserved.
- * Licensed pageviews: unspecified
- * 
- * Webfont: Nexa XBold by Fontfabric
- * URL: http://www.myfonts.com/fonts/font-fabric/nexa/xbold/
- * Copyright: Copyright (c) 2010 by Svetoslav Simov. All rights reserved.
- * Licensed pageviews: unspecified
- * 
- * Webfont: Nexa Black by Fontfabric
- * URL: http://www.myfonts.com/fonts/font-fabric/nexa/black/
- * Copyright: Copyright (c) 2012 by Fontfabric LLC. All rights reserved.
- * Licensed pageviews: unspecified
- * 
- * Webfont: Nexa Light by Fontfabric
- * URL: http://www.myfonts.com/fonts/font-fabric/nexa/light/
- * Copyright: Copyright (c) 2010 by Svetoslav Simov. All rights reserved.
- * Licensed pageviews: unspecified
- * 
- * Webfont: Nexa Italic by Fontfabric
- * URL: http://www.myfonts.com/fonts/font-fabric/nexa/italic/
- * Copyright: Copyright (c) 2012 by Fontfabric LLC. All rights reserved.
- * Licensed pageviews: unspecified
- * 
- * 
- * License: http://www.myfonts.com/viewlicense?type=web&buildid=2389930
- * 
- * © 2012 Bitstream Inc
-*/
-@font-face {
-  font-family: 'NexaHeavy';
-  src: url("../fonts/2477AA_0_0.eot");
-  src: url("../fonts/2477AA_0_0.eot?#iefix") format("embedded-opentype"), url("../fonts/2477AA_0_0.woff") format("woff"), url("../fonts/2477AA_0_0.ttf") format("truetype"); }
-
-@font-face {
-  font-family: 'Nexa';
-  font-weight: normal;
-  font-style: italic;
-  src: url("../fonts/2477AA_1_0.eot");
-  src: url("../fonts/2477AA_1_0.eot?#iefix") format("embedded-opentype"), url("../fonts/2477AA_1_0.woff") format("woff"), url("../fonts/2477AA_1_0.ttf") format("truetype"); }
-
-@font-face {
-  font-family: 'NexaThin';
-  src: url("../fonts/2477AA_2_0.eot");
-  src: url("../fonts/2477AA_2_0.eot?#iefix") format("embedded-opentype"), url("../fonts/2477AA_2_0.woff") format("woff"), url("../fonts/2477AA_2_0.ttf") format("truetype"); }
-
-@font-face {
-  font-family: 'Nexa';
-  font-weight: normal;
-  font-style: normal;
-  src: url("../fonts/2477AA_3_0.eot");
-  src: url("../fonts/2477AA_3_0.eot?#iefix") format("embedded-opentype"), url("../fonts/2477AA_3_0.woff") format("woff"), url("../fonts/2477AA_3_0.ttf") format("truetype"); }
-
-@font-face {
-  font-family: 'Nexa-Light-Italic';
-  src: url("../fonts/2477AA_4_0.eot");
-  src: url("../fonts/2477AA_4_0.eot?#iefix") format("embedded-opentype"), url("../fonts/2477AA_4_0.woff") format("woff"), url("../fonts/2477AA_4_0.ttf") format("truetype"); }
-
-@font-face {
-  font-family: 'Nexa';
-  font-weight: bold;
-  font-style: italic;
-  src: url("../fonts/2477AA_5_0.eot");
-  src: url("../fonts/2477AA_5_0.eot?#iefix") format("embedded-opentype"), url("../fonts/2477AA_5_0.woff") format("woff"), url("../fonts/2477AA_5_0.ttf") format("truetype"); }
-
-@font-face {
-  font-family: 'Nexa-Heavy-Italic';
-  src: url("../fonts/2477AA_6_0.eot");
-  src: url("../fonts/2477AA_6_0.eot?#iefix") format("embedded-opentype"), url("../fonts/2477AA_6_0.woff") format("woff"), url("../fonts/2477AA_6_0.ttf") format("truetype"); }
-
-@font-face {
-  font-family: 'NexaRegular';
-  src: url("../fonts/2477AA_7_0.eot");
-  src: url("../fonts/2477AA_7_0.eot?#iefix") format("embedded-opentype"), url("../fonts/2477AA_7_0.woff") format("woff"), url("../fonts/2477AA_7_0.ttf") format("truetype"); }
-
-@font-face {
-  font-family: 'Nexa-XBold-Italic';
-  src: url("../fonts/2477AA_8_0.eot");
-  src: url("../fonts/2477AA_8_0.eot?#iefix") format("embedded-opentype"), url("../fonts/2477AA_8_0.woff") format("woff"), url("../fonts/2477AA_8_0.ttf") format("truetype"); }
-
-@font-face {
-  font-family: 'Nexa-Black-Italic';
-  src: url("../fonts/2477AA_9_0.eot");
-  src: url("../fonts/2477AA_9_0.eot?#iefix") format("embedded-opentype"), url("../fonts/2477AA_9_0.woff") format("woff"), url("../fonts/2477AA_9_0.ttf") format("truetype"); }
-
-@font-face {
-  font-family: 'Nexa-Thin-Italic';
-  src: url("../fonts/2477AA_A_0.eot");
-  src: url("../fonts/2477AA_A_0.eot?#iefix") format("embedded-opentype"), url("../fonts/2477AA_A_0.woff") format("woff"), url("../fonts/2477AA_A_0.ttf") format("truetype"); }
-
-@font-face {
-  font-family: 'Nexa';
-  font-weight: bold;
-  font-style: normal;
-  src: url("../fonts/2477AA_B_0.eot");
-  src: url("../fonts/2477AA_B_0.eot?#iefix") format("embedded-opentype"), url("../fonts/2477AA_B_0.woff") format("woff"), url("../fonts/2477AA_B_0.ttf") format("truetype"); }
-
-@font-face {
-  font-family: 'Nexa-XBold';
-  src: url("../fonts/2477AA_C_0.eot");
-  src: url("../fonts/2477AA_C_0.eot?#iefix") format("embedded-opentype"), url("../fonts/2477AA_C_0.woff") format("woff"), url("../fonts/2477AA_C_0.ttf") format("truetype"); }
-
-@font-face {
-  font-family: 'NexaBlack';
-  src: url("../fonts/2477AA_D_0.eot");
-  src: url("../fonts/2477AA_D_0.eot?#iefix") format("embedded-opentype"), url("../fonts/2477AA_D_0.woff") format("woff"), url("../fonts/2477AA_D_0.ttf") format("truetype"); }
-
-@font-face {
-  font-family: 'Nexa-Light';
-  src: url("../fonts/2477AA_E_0.eot");
-  src: url("../fonts/2477AA_E_0.eot?#iefix") format("embedded-opentype"), url("../fonts/2477AA_E_0.woff") format("woff"), url("../fonts/2477AA_E_0.ttf") format("truetype"); }
-
-@font-face {
-  font-family: 'Nexa-Regular-Italic';
-  src: url("../fonts/2477AA_F_0.eot");
-  src: url("../fonts/2477AA_F_0.eot?#iefix") format("embedded-opentype"), url("../fonts/2477AA_F_0.woff") format("woff"), url("../fonts/2477AA_F_0.ttf") format("truetype"); }
-
 /* clearfix - add group class */
 .group:after {
   content: "";
@@ -509,7 +328,7 @@ table {
   clear: both; }
 
 body {
-  font-family: 'Nexa', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: normal;
   font-style: normal;
   font-size: 16px;
@@ -518,15 +337,17 @@ body {
   background-color: #f0eee1; }
 
 [role="banner"],
+[role="navigation"],
 [role="main"],
 [role="complementary"],
 [role="contentinfo"] {
   max-width: 1024px;
   margin: 20px auto;
-  text-align: center;
   padding: 0 10px;
   *zoom: 1; }
   [role="banner"]:before, [role="banner"]:after,
+  [role="navigation"]:before,
+  [role="navigation"]:after,
   [role="main"]:before,
   [role="main"]:after,
   [role="complementary"]:before,
@@ -536,6 +357,7 @@ body {
     content: " ";
     display: table; }
   [role="banner"]:after,
+  [role="navigation"]:after,
   [role="main"]:after,
   [role="complementary"]:after,
   [role="contentinfo"]:after {
@@ -545,17 +367,59 @@ body {
   clear: both;
   margin-top: 150px; }
 
-h1 {
-  font-family: 'NexaThin', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+[role="navigation"] ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  overflow: hidden;
+  background-color: #c0beb4; }
+
+[role="navigation"] li .item {
+  display: inline-block;
+  padding: 10px 0 10px 0;
+  width: 25%;
+  float: left;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  -webkit-transition: all 0.25s ease-in-out;
+  -moz-transition: all 0.25s ease-in-out;
+  -o-transition: all 0.25s ease-in-out;
+  transition: all 0.25s ease-in-out; }
+
+[role="navigation"] .item:hover, [role="navigation"] .item.current {
+  background-color: #605f5a;
+  color: #bdab93; }
+
+.logotype {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   /*	font-size-adjust:0.426; */
-  font-weight: 500;
+  font-weight: 200;
   font-style: normal;
   letter-spacing: -0.07em;
   word-spacing: 0.2em;
   color: #eeeeee;
   text-shadow: 0px 1px 1px #eeeeee;
   color: #36393e;
-  text-align: center;
+  font-size: 3em;
+  text-shadow: 0px 0px 3px rgba(0, 0, 0, 0.3); }
+  @media (max-width: 996px) {
+    .logotype {
+      font-size: 1.5em; } }
+  @media (max-width: 502px) {
+    .logotype {
+      font-size: 1em; } }
+
+h1 {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  /*	font-size-adjust:0.426; */
+  font-weight: 200;
+  font-style: normal;
+  letter-spacing: -0.07em;
+  word-spacing: 0.2em;
+  color: #eeeeee;
+  text-shadow: 0px 1px 1px #eeeeee;
+  color: #36393e;
   font-size: 5em;
   text-shadow: 0px 0px 3px rgba(0, 0, 0, 0.3); }
   @media (max-width: 996px) {
@@ -586,41 +450,6 @@ hr:after {
   font-size: 1.5em;
   padding: 0 0.25em; }
 
-button {
-  border: 1px solid #483c42;
-  border-bottom: 1px solid #3f2c19;
-  border-radius: 5px;
-  box-shadow: inset 0 1px 0 0 #e2c89f;
-  color: white;
-  display: inline-block;
-  font-size: 14px;
-  font-weight: bold;
-  background-color: #bdab93;
-  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #bdab93), color-stop(50%, #857972), color-stop(50%, #676063), color-stop(100%, #6e6565));
-  background-image: -webkit-linear-gradient(top, #bdab93 0%, #857972 50%, #676063 50%, #6e6565 100%);
-  background-image: -moz-linear-gradient(top, #bdab93 0%, #857972 50%, #676063 50%, #6e6565 100%);
-  background-image: -ms-linear-gradient(top, #bdab93 0%, #857972 50%, #676063 50%, #6e6565 100%);
-  background-image: -o-linear-gradient(top, #bdab93 0%, #857972 50%, #676063 50%, #6e6565 100%);
-  background-image: linear-gradient(top, #bdab93 0%, #857972 50%, #676063 50%, #6e6565 100%);
-  padding: 8px 20px;
-  text-align: center;
-  text-decoration: none;
-  text-shadow: 0 -1px 1px #311e21; }
-  button:hover:not(:disabled) {
-    cursor: pointer;
-    background-color: #b09c81;
-    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #b09c81), color-stop(50%, #7b6d60), color-stop(50%, #605651), color-stop(100%, #675b54));
-    background-image: -webkit-linear-gradient(top, #b09c81 0%, #7b6d60 50%, #605651 50%, #675b54 100%);
-    background-image: -moz-linear-gradient(top, #b09c81 0%, #7b6d60 50%, #605651 50%, #675b54 100%);
-    background-image: -ms-linear-gradient(top, #b09c81 0%, #7b6d60 50%, #605651 50%, #675b54 100%);
-    background-image: -o-linear-gradient(top, #b09c81 0%, #7b6d60 50%, #605651 50%, #675b54 100%);
-    background-image: linear-gradient(top, #b09c81 0%, #7b6d60 50%, #605651 50%, #675b54 100%); }
-  button:active:not(:disabled) {
-    box-shadow: inset 0 0 20px 0 #4e3719, 0 1px 0 white; }
-  button:disabled {
-    opacity: 0.5;
-    cursor: not-allowed; }
-
 a {
   color: #f0eee1; }
 
@@ -640,3 +469,5 @@ a:active {
   color: #f9f8f3; }
 
 /* selected link */
+.fullwidth {
+  width: 100%; }
