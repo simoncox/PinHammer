@@ -1,0 +1,42 @@
+/* TEAM */
+
+                            
+Protagionist: Simon Cox
+
+                            
+Site: http://coxand.co.uk http://simoncox.com
+
+                            
+Twitter: @CoxanCoUK  @simoncox
+
+                            
+Location: Lingfield, Surrey
+
+                        
+                        [...]
+
+							
+/* THANKS */
+
+							
+Elliot Kember of Riot: http://hammerformac.com/   - For putting me on the Hammer Beta, hope I have been of some help!
+
+
+			               
+                        [...]
+                        
+
+                            
+/* SITE */
+
+                            
+Last update: 2013/04/18 
+
+                            
+Standards: HTML5, CSS3,
+
+                            
+Components: None
+
+                            
+Software: Hammer For Mac, Coda, Tower, Spotify (Yay crank it up to 11).

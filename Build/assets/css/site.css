@@ -334,7 +334,8 @@ body {
   font-size: 16px;
   border-top: 5px solid #bdab93;
   height: 100%;
-  background-color: #f0eee1; }
+  background-color: #d9d8dd;
+  background-image: url(../img/site/squairy_light.png); }
 
 [role="banner"],
 [role="navigation"],
@@ -372,7 +373,7 @@ body {
   padding: 0;
   list-style-type: none;
   overflow: hidden;
-  background-color: #c0beb4; }
+  background-color: #adacb0; }
 
 [role="navigation"] li .item {
   display: inline-block;
@@ -388,7 +389,7 @@ body {
   transition: all 0.25s ease-in-out; }
 
 [role="navigation"] .item:hover, [role="navigation"] .item.current {
-  background-color: #605f5a;
+  background-color: #565658;
   color: #bdab93; }
 
 .logotype {
@@ -443,7 +444,7 @@ hr {
 hr:after {
   content: "★";
   color: #bdab93;
-  background-color: #f0eee1;
+  background-color: #d9d8dd;
   display: inline-block;
   position: relative;
   top: -0.7em;
@@ -451,22 +452,22 @@ hr:after {
   padding: 0 0.25em; }
 
 a {
-  color: #f0eee1; }
+  color: #d9d8dd; }
 
 a:link {
-  color: #f0eee1; }
+  color: #d9d8dd; }
 
 /* unvisited link */
 a:visited {
-  color: #605f5a; }
+  color: #565658; }
 
 /* visited link */
 a:hover {
-  color: #f6f4ed; }
+  color: #e8e7ea; }
 
 /* mouse over link */
 a:active {
-  color: #f9f8f3; }
+  color: #efeff1; }
 
 /* selected link */
 .fullwidth {

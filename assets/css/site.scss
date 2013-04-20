@@ -16,7 +16,8 @@ body {
 	@include font-stack-text;
 	border-top: 5px solid $colour4;
 	height:100%;
-	background-color: $colour5
+	background-color: $colour5;
+	background-image: url('assets/img/site/squairy_light.png');
 	}
 
 
