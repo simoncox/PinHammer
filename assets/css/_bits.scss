@@ -1,8 +1,8 @@
 $colour0: #ffffff;
 $colour1: #eeeeee;
 $colour2: #333333;
-$colour3: #36393e;
-$colour4: #bdab93;
+$colour3: #65839b;
+$colour4: #849caf;
 $colour5: #d9d8dd;
 
 
@@ -15,45 +15,49 @@ $padding:12px;
   content: "";
   display: table;
   clear: both;
-}
+  }
 
+
+/* Modular Scale ---------------------- 16px @ 1:1.618	 48px @ 1:1.618	http://modularscale.com/scale/?px1=16&px2=48&ra1=1.618&ra2=0 ----------------------*/
+@mixin font-size($size: 16){
+  font-size: $size + px;
+  font-size: $size / 16 + rem;
+  }
 
 @mixin font-stack-text {	
 	font-family: 'Helvetica Neue', Helvetica,  Arial, sans-serif;
 	font-weight:normal; 
 	font-style:normal;
-	font-size:16px;
-}
+	color:$colour2;
+	}
 
 @mixin font-stack-headers {		
 	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; 
-/*	font-size-adjust:0.426; */
 	font-weight:200; 
 	font-style:normal; 
-	letter-spacing: -0.07em;
+	letter-spacing: -0.04em;
 	word-spacing: 0.2em;
-	color:$colour1;
 	text-shadow: 0px 1px 1px $colour1;
-}
+	}
 
 @mixin font-stack-subheaders {		
 	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; 
-/*		font-size-adjust:0.426; */
 	font-weight:700; 
 	font-style:normal; 
 	letter-spacing: -0.02em;
 	color: $colour1;
 	text-shadow: 0px 1px 1px $colour1;
-}
+	}
 
 @mixin breakpoint($point) {
-	@if $point == desktop {
- 		@media (max-width: 1020px) { @content; }
+		@if $point == desktop {
+	 		@media (max-width: 1020px) { @content; }
+		}
+		@if $point == tablet {
+			@media (max-width: 996px) { @content; }
+		}
+		@else if $point == mobile {
+			@media (max-width: 502px)  { @content; }
+		}
 	}
-	@if $point == tablet {
-		@media (max-width: 996px) { @content; }
-	}
-	@else if $point == mobile {
-		@media (max-width: 502px)  { @content; }
-	}
-}
+
