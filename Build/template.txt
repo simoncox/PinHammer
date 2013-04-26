@@ -1,0 +1,2 @@
+Author: Simon Cox
+Version: 0.1
