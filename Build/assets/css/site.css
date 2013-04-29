@@ -328,9 +328,10 @@ table {
   clear: both; }
 
 /* Modular Scale ---------------------- 16px @ 1:1.618	 48px @ 1:1.618	http://modularscale.com/scale/?px1=16&px2=48&ra1=1.618&ra2=0 ----------------------*/
+/* RWD breakpoints - change the breakpoints to suit your page layout and design - not screen sizes */
 body {
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: normal;
+  font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 400;
   font-style: normal;
   color: #333333;
   font-size: 16px;
@@ -347,7 +348,7 @@ body {
 [role="contentinfo"] {
   max-width: 1024px;
   margin: 20px auto;
-  padding: 0 10px;
+  padding: 12px;
   *zoom: 1; }
   [role="banner"]:before, [role="banner"]:after,
   [role="navigation"]:before,
@@ -395,8 +396,8 @@ body {
   color: #849caf; }
 
 .logotype {
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 200;
+  font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 100;
   font-style: normal;
   letter-spacing: -0.04em;
   word-spacing: 0.2em;
@@ -416,8 +417,8 @@ body {
 
 /* Modular Scale ---------------------- 16px @ 1:1.618	 48px @ 1:1.618	http://modularscale.com/scale/?px1=16&px2=48&ra1=1.618&ra2=0 ----------------------*/
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 200;
+  font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 100;
   font-style: normal;
   letter-spacing: -0.04em;
   word-spacing: 0.2em;
@@ -427,7 +428,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 48px;
   font-size: 3rem;
-  text-shadow: 0px 0px 3px rgba(0, 0, 0, 0.3); }
+  text-shadow: 0px 0px 2px rgba(0, 0, 0, 0.2); }
   @media (max-width: 996px) {
     h1 {
       font-size: 29.666px;
@@ -518,7 +519,7 @@ hr:after {
   top: -0.7em;
   font-size: 40px;
   font-size: 2.5rem;
-  padding: 0 0.25em; }
+  padding: 0 12px; }
 
 a {
   color: #333333; }
