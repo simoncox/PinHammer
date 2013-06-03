@@ -330,7 +330,7 @@ table {
 /* Modular Scale ---------------------- 16px @ 1:1.618	 48px @ 1:1.618	http://modularscale.com/scale/?px1=16&px2=48&ra1=1.618&ra2=0 ----------------------*/
 /* RWD breakpoints - change the breakpoints to suit your page layout and design - not screen sizes */
 body {
-  font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Roboto', 'Helvetica Neue', Helvetica,  Arial, sans-serif;
   font-weight: 400;
   font-style: normal;
   color: #333333;
